@@ -1,0 +1,12 @@
+11
+48F:\web design\frontend masters\Calculator\cal.js133289683613744034 0
+46F:\web design\frontend masters\Calculator\dist133312116983935001 1
+50F:\web design\frontend masters\Calculator\calc.css133312116983365703 0
+52F:\web design\frontend masters\Calculator\index.html133312115999677731 0
+68F:\web design\frontend masters\Calculator\dist\index.099bff58.js.map133312116983905100 0
+64F:\web design\frontend masters\Calculator\dist\index.099bff58.js133312116983821466 0
+73F:\web design\frontend masters\Calculator\dist\Calculator.3464ddca.js.map133312116983885177 0
+69F:\web design\frontend masters\Calculator\dist\Calculator.3464ddca.js133312116983821466 0
+65F:\web design\frontend masters\Calculator\dist\index.b41c27ba.css133312116983821466 0
+69F:\web design\frontend masters\Calculator\dist\index.b41c27ba.css.map133312116983915068 0
+57F:\web design\frontend masters\Calculator\dist\index.html133312116983821466 0
